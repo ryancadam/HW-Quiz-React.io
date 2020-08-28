@@ -34,6 +34,7 @@ class App extends Component {
     this.setState({score: 0})
     this.setState({showScore: false})
   }
+
   render () {
     return (
       <div className="App">
